@@ -100,3 +100,7 @@ main{
 .about-inf{
                                     text-align: center;
 }
+#what-i-do-description{
+                                    padding-block-end: 30px 150px;
+                                    text-align: center;
+}
