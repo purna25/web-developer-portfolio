@@ -93,6 +93,9 @@ main{
                                     max-width: 1140px;
                                     margin: 0px auto;
 }
+.main section{
+                                    margin-top: 130px;
+}
 .about-info-container{
                                     display: flex;
                                     justify-content: space-around;
@@ -103,4 +106,20 @@ main{
 #what-i-do-description{
                                     padding-block-end: 30px 150px;
                                     text-align: center;
+}
+.skills-container{
+                                    display: flex;
+                                    gap: 24px;
+}
+.skill{
+                                    padding: 30px;
+}
+.skill-description{
+             color: #474747;
+                                 
+}
+.resume-column-title{
+                                    color: #474747;
+                                    font-size: 30px;
+                                    font-weight: 700;
 }
